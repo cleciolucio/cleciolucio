@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8326
-Fork on GitHub
-1807
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Oi 👋, Meu nome é Cléciolucio Pontes</h1>
 <h3 align="center">💻 Estudante de Engenharia de Software na Faculdade AMPLI e linguagem de Programação na Instituição E2E Treinamentos. Áreas de interesse: Quality Assurance e Engenharia de Softwares. Estudando atualmente: Java, C, C++, C# e .NET. Trabalho com: Testes Funcionais, Não funcionais e Roteiros de Testes. Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando aqui no GitHub ou no Linkedin.</h3>
