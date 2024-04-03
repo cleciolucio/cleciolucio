@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Clécio Pontes</h1>
-<h3 align="center">💻 Estudante contínuo na área de testes e qualidade de Software.  linguagem de Programação na Instituição E2E Treinamentos. Quality Assurance e Engenharia de Softwares. Estudando atualmente: Inglês, Java, Java Script, Visual Studio Code, MySQL e Cypress . Trabalho com: Testes Funcionais, Não funcionais e Roteiros de Testes. Quero praticar e compartilhar os meus estudos e projetos pessoais por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando aqui no GitHub ou no Linkedin.</h3>
+<h3 align="center">👨‍💻 Estudante dedicado na área de testes de software e garantia de qualidade, com formação em linguagens de programação pela Instituição E2E Treinamentos. Atualmente, aprimoro meu conhecimento em Inglês, Java, JavaScript, Visual Studio Code e Cypress. Especializado em testes funcionais, não funcionais e elaboração de roteiros de testes. Estou feliz em compartilhar e praticar meus estudos e projetos pessoais aqui. Fique à vontade para entrar em contato comigo pelo GitHub ou LinkedIn para qualquer dúvida, dica ou feedback.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cleciolucio&label=Profile%20views&color=0e75b6&style=flat" alt="cleciolucio" /> </p>
 
