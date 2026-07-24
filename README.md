@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Clécio Pontes</h1>
-<h3 align="center">👨‍💻 Estudante dedicado na área de testes de software e garantia de qualidade, com formação em linguagens de programação pela Instituição E2E Treinamentos. Atualmente, aprimoro meu conhecimento em Inglês, Java, JavaScript, Visual Studio Code e Cypress. Especializado em testes funcionais, não funcionais e elaboração de roteiros de testes. Estou feliz em compartilhar e praticar meus estudos e projetos pessoais aqui. Fique à vontade para entrar em contato comigo pelo GitHub ou LinkedIn para qualquer dúvida, dica ou feedback.</h3>
+<h3 align="center">👨‍💻 Analista de Qualidade de Software (QA) com mais de 7 anos de experiência em testes funcionais, automatizados e de APIs, atuando em projetos ágeis, principalmente no setor financeiro. Experiência em automação utilizando Java, Javascript, Selenium WebDriver, Rest Assured, Cucumber, além da validação de APIs REST. Fique à vontade para entrar em contato comigo pelo GitHub ou LinkedIn para qualquer dúvida, dica ou feedback.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cleciolucio&label=Profile%20views&color=0e75b6&style=flat" alt="cleciolucio" /> </p>
 
